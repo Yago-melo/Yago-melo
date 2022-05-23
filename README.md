@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil do Yago Melo 😁
+## Bem-vindo(a) ao Meu perfil, Parzer, Yago Vieira de Melo  😁
 
  <div>
-  <a href="https://github.com/Yago-melo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Yago-melo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devemdobro&layout=compact&langs_count=6&theme=tokyonight"/>
+  <a href="https://github.com/devemdobro">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoMelo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoMelo&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
@@ -13,14 +13,12 @@
  
  <br>
  
-  ### Pra contato, segue linkedin e e-mail!
+  ### Pra contato, acesse meu e-mail ou linkedin!
  
 <div>
-  <a href = "mailto:Yago.vieira5782@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
-  <a href="https://linkedin.com/in/yago-vieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto:yago.vieira5782@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" destino ="_blank"></a>
+  <a href="https://www.linkedin.com/in/yago-vieira" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
-
- 
-    ![Animação de cobra](https://github.com/yago-melo/yago-melo/blob/output/github-contribution-grid-snake.svg)
+  ![Animação de cobra](https://github.com/Yago-Melo/Yago-Melo/blob/output/github-contribution-grid-snake.svg)
 
 </div>
