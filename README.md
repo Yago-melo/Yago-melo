@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Yago melo 😁
+## Bem-vindo(a) ao perfil do Yago Melo 😁
 
  <div>
   <a href="https://github.com/Yago-melo">
