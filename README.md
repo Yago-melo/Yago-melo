@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao Meu perfil, Parzer, Yago Vieira de Melo  😁
+## Bem-vindo(a) ao Meu perfil, Prazer, Yago Vieira de Melo  😁
 
  <div>
   <a href="https://github.com/Yago-melo">
